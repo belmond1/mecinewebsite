@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.rxmediciner.com	TRUE	/	FALSE	1999999999	PHPSESSID	3aabc45ed9422640a3e1b919cfa050f1
+
